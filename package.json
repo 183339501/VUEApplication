@@ -1,0 +1,27 @@
+{
+  "name": "tvos_framework",
+  "version": "0.0.1",
+  "description": "tvos framework create by py",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "babel-runtime": "^5.8.29",
+    "css-loader": "^0.21.0",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "insert-css": "^0.2.0",
+    "node-libs-browser": "^0.5.2",
+    "postcss": "^5.0.10",
+    "postcss-custom-properties": "^5.0.0",
+    "postcss-import": "^7.1.0",
+    "postcss-loader": "^0.7.0",
+    "style-loader": "^0.13.0",
+    "vue-html-loader": "^1.0.0",
+    "vue-loader": "^5.0.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0",
+    "vue-datetime-picker" : "0.1.1"
+  },
+  "dependencies": {
+    "vue": "^1.0.0",
+    "vue-router": "^0.7.5"
+  }
+}
