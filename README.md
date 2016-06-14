@@ -1,14 +1,15 @@
-
-# py
+# VUEApplication
 
 ## Development Guide
 
-
+`` bash
     $ npm install
+``   
 
 Run development server with:
-
-    $ node server.js
+`` bash
+$ node server.js
+``    
 
  vue.js
 
