@@ -6,13 +6,12 @@
     $ npm install
 ``   
 
-Run development server with:
 `` 
 $ node server.js
 ``    
 
  vue.js
 
-# tvosWork
+### info
 vue.js framework study for bussiness
 
