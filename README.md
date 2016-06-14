@@ -2,12 +2,12 @@
 
 ## Development Guide
 
-`` bash
+`` 
     $ npm install
 ``   
 
 Run development server with:
-`` bash
+`` 
 $ node server.js
 ``    
 
